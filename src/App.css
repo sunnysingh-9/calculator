@@ -1,0 +1,35 @@
+*{
+  background-color: rgb(149, 231, 86) ;
+}
+.calc{
+  width: 320px;
+  margin: 100px auto;
+
+}
+#answer{
+  background-color: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  border: 3px solid #333;
+  text-align: right;
+}
+.button{
+  background: #333;
+  height: 80px;
+  width: 80px;
+  color: #e2e2e2;
+  font-size: 30px;
+ border: 1px solid white;
+  float: left;
+}
+
+.button1{
+ width: 160px;
+ background: red;
+}
+.button2{
+  width: 160px;
+  background: rgb(69, 47, 89);
+ }
